@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Lagless V2",
+    "year": "2026",
+    "tags": ["PyTorch", "ONNX", "Go"],
+    "description": "Predictive Edge Network Mesh forecasting congestion 5s ahead using LSTM inference.",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "title": "UrbanFlow",
+    "year": "2026",
+    "tags": ["LightGBM", "DuckDB", "Python"],
+    "description": "Forecasting & Causal Analytics Platform processing 15M+ rows of telemetry.",
+    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "title": "EMR Validator",
+    "year": "2026",
+    "tags": ["LangChain", "OpenAI", "FHIR"],
+    "description": "AI-driven patient data quality and integration validator.",
+    "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=600&q=80"
+  }
+]
